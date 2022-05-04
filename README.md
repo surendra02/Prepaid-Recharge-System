@@ -1,6 +1,9 @@
 # Prepaid-Recharge-System
 Prepaid Recharge System
 
+Requirements :-
+Must have to install rest_framework with django.
+
 POST  http://127.0.0.1:8000/api/user-signup/  responsible for signup with name,email,mobile and password with post method.
 POST  http://127.0.0.1:8001/api/user-signin/  responsible for signin with email and password and return a valid token with post method.
 GET   http://127.0.0.1:8000/api/plans/        responsible for get the all available palns with get method with a valid token because this is protected endpoint.
