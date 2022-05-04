@@ -14,10 +14,10 @@ Where user -> your registerd email id.
 
 mobile -> valid 10 digit of mobile no.
 
-valid operator -> Tata Docomo, BSNL MOBILE, Reliance Jio, VI, Airtel.
+valid operator -> Tata Docomo, BSNL MOBILE, Reliance Jio, VI, Airtel same as it is formate.
 
 valid area/circle -> 
-  West Bengal & Andaman Nicobar
+  	West Bengal & Andaman Nicobar
 	UP West & Uttaranchal
 	UP East
 	Tamilnadu
@@ -29,11 +29,12 @@ valid area/circle ->
 	Madhya Pradesh & Chhattisgarh
 	Kolkata
 	Kerala
-  and others mention in model.
+	write circle name same as it is formate,
+ 	and others mention in model.
   
   
 valid plan ->
-  499,
+  	499,
 	3359,
 	1799,
 	839,
