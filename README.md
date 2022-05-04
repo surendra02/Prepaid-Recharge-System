@@ -1,8 +1,18 @@
 # Prepaid-Recharge-System
 Prepaid Recharge System
 
-Requirements :-
-Must have to install rest_framework with django.
+Admin user :- python@gmail.com
+Admin password :- 2211
+
+At first clone this project-
+Install this module  :- pip install virtualenv 
+Then create virtual env. in which directory your project is cloned usig this command :- virtualenv env_name
+Then activate your virtual env after your dir :- .\env_name\Scripts\activate.
+Then go to project folder and run this command :- pip install -r requirements.txt.
+
+Then run this command to run the project :- python manage.py runserver
+
+Then.... 
 
 POST  http://127.0.0.1:8000/api/user-signup/  responsible for signup with name,email,mobile and password with post method.
 POST  http://127.0.0.1:8001/api/user-signin/  responsible for signin with email and password and return a valid token with post method.
